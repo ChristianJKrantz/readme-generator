@@ -1,4 +1,4 @@
-<h1 align="center">📝 README Generator</h1>
+<h1 align="center">README Generator</h1>
 
 <p align="center">A command-line tool that asks a few questions about your project and writes a professional README.md for you.</p>
 
@@ -77,19 +77,6 @@ Answer the prompts. When you finish, your README is saved to `application/output
         └── generateMarkdown.js  # Builds the README text and license badge
 ```
 
-## User Story
-
-<details>
-<summary>Original assignment user story</summary>
-
-```
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-```
-
-</details>
-
 ## Author
 
-[ChristianKrantz11](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [GitHub](https://github.com/ChristianKrantz11)
