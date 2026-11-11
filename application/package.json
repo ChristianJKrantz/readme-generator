@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ChristianKrantz11",
+  "author": "ChristianJKrantz",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.7"

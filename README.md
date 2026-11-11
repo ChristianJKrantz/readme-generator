@@ -40,7 +40,7 @@ See [`examples/sample-README.md`](examples/sample-README.md) for real output.
 ### Installation
 
 ```bash
-git clone https://github.com/ChristianKrantz11/readme-generator.git
+git clone https://github.com/ChristianJKrantz/readme-generator.git
 cd readme-generator/application
 npm install
 ```
@@ -79,4 +79,4 @@ Answer the prompts. When you finish, your README is saved to `application/output
 
 ## Author
 
-**Christian Krantz**: [Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianKrantz11)
+**Christian Krantz**: [Portfolio](https://christianjkrantz.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [GitHub](https://github.com/ChristianJKrantz)

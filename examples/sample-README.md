@@ -45,4 +45,4 @@ npm test
 
 ## Questions
 
-Have a question? Find me on GitHub at [ChristianKrantz11](https://github.com/ChristianKrantz11) or email me at [dev@example.com](mailto:dev@example.com).
+Have a question? Find me on GitHub at [ChristianJKrantz](https://github.com/ChristianJKrantz) or email me at [dev@example.com](mailto:dev@example.com).
